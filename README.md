@@ -1,1 +1,1 @@
-These shell scripts add encode/decode functions for bbedit. Drop into ~/Library/Application Support/BBEdit/Text Filters/
+These shell scripts add encode/decode functions for bbedit. Drop into ~/Library/Application Support/BBEdit/Text Filters/ if using local files or ~/Dropbox/Application Support/BBEdit/Text Filters/ if using dropbox.
